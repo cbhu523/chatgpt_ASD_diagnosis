@@ -14,7 +14,7 @@ Diagnosing language disorders associated with autism is a complex challenge, oft
 
 ## Framework
 
-![Example](images/framework.jpg)
+![Framework for Diagnosing Autism and Identifying Language Disorders](./framework.jpg)
 ---
 
 ## Dataset
