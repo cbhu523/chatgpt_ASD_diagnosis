@@ -1,8 +1,7 @@
 # ASD_Diagnosis_based_on ChatGPT
 
-
-
-Sample Dataset: 
+The sample dataset is available for download on the following link. Additional data may be added in the future.
+https://drive.google.com/file/d/1_6TqCtx2hqVn6bBH6eqxC1BnZnR6PTPY/view?usp=sharing
 
 Prompt (Diagnosis): Dialogue['text'] + "Based on the above conversation between the examiner and the patient, please categorize any observed social language disorders for the patient into the provided 10 language categories and demonstrate all instances of disorder evidence present in their dialogue. 
 1.Echoic Repetition: The individual mimics verbatim what has been said by others, including the examiner, or recites phrases from external sources like advertisements or movie scripts, showing a delayed echo response;
