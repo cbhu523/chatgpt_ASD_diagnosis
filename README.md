@@ -24,14 +24,14 @@ Dialogue['text'] + "Based on the above conversation between the examiner and the
 8. Monotone Social Expression: Reiterates social phrases with an unchanged, monotonous intonation, indicating a lack of genuine emotional engagement or variability in social interactions;
 9. Stereotyped Media Quoting: Quotes lines from commercials, movies, or TV shows in a highly stereotypical manner, employing a canned intonation that mimics the original source closely, suggesting a reliance on external media for verbal expressions;
 10. Clichéd Verbal Substitutions: Resorts to well-known sayings or clichés in lieu of engaging in direct conversational responses, using phrases like 'circle of life' or 'ready to roll' as stand-ins for more personalized communication.
-
+```text
 ## Citation
 If you use our data or prompts in your research, please cite our paper:
-
+```text
 @article{hu2024exploiting,
   title={Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features},
   author={Hu, Chuanbo and Li, Wenqi and Ruan, Mindi and Yu, Xiangxu and Paul, Lynn K and Wang, Shuo and Li, Xin},
   journal={arXiv preprint arXiv:2405.01799},
   year={2024}
 }
-
+```text
