@@ -14,7 +14,7 @@ Diagnosing language disorders associated with autism is a complex challenge, oft
 
 ## Framework
 
-![Framework for Diagnosing Autism and Identifying Language Disorders](./framework.jpg)
+![Framework for Diagnosing Autism and Identifying Language Disorders](./images/framework.jpg)
 ---
 
 ## Dataset
@@ -44,7 +44,7 @@ Dialogue['text'] + "Based on the above conversation between the examiner and the
 ```
 ## Case Study
 
-![Case Study Analysis: Identifying Language Deficits in an Examiner-Patient Dialogue. Phrases highlighted in indicate observed linguistic anomalies, while underscores the specific feature category of language deficits.](./case_study.png)
+![Case Study Analysis: Identifying Language Deficits in an Examiner-Patient Dialogue. Phrases highlighted in indicate observed linguistic anomalies, while underscores the specific feature category of language deficits.](./images/case_study.png)
 ---
 
 ## Citation
