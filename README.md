@@ -1,4 +1,20 @@
-# ASD_Diagnosis_Based_on_ChatGPT
+# Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features
+
+This repository contains the datasets, prompts, and supplementary materials for the paper:  
+**"Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features"**  
+by **Chuanbo Hu, Wenqi Li, Mindi Ruan, Xiangxu Yu, Lynn K. Paul, Shuo Wang, and Xin Li**.
+
+---
+
+## Abstract
+
+In this work, we leverage ChatGPT for analyzing social language disorders associated with Autism Spectrum Disorder (ASD). Our approach focuses on categorizing language features into 10 distinct categories and providing interpretable evidence for each diagnosis. This methodology offers a novel perspective on how AI can aid in the clinical understanding of ASD-related behaviors.
+
+---
+
+## Framework
+
+---
 
 ## Dataset
 
