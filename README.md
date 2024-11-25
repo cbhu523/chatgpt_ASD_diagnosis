@@ -8,12 +8,13 @@ by **Chuanbo Hu, Wenqi Li, Mindi Ruan, Xiangxu Yu, Lynn K. Paul, Shuo Wang, and 
 
 ## Abstract
 
-In this work, we leverage ChatGPT for analyzing social language disorders associated with Autism Spectrum Disorder (ASD). Our approach focuses on categorizing language features into 10 distinct categories and providing interpretable evidence for each diagnosis. This methodology offers a novel perspective on how AI can aid in the clinical understanding of ASD-related behaviors.
+Diagnosing language disorders associated with autism is a complex challenge, often hampered by the subjective nature and variability of traditional assessment methods. Traditional diagnostic methods not only require intensive human effort but also often result in delayed interventions due to their lack of speed and precision. In this study, we explored the application of ChatGPT, a state-of-the-art large language model, to overcome these obstacles by enhancing sensitivity and profiling linguistic features for autism diagnosis. This research utilizes ChatGPT's natural language processing capabilities to simplify and improve the diagnostic process, focusing on identifying autism-related language patterns. Specifically, we compared ChatGPT's performance with that of conventional supervised learning models, including BERT, a model acclaimed for its effectiveness in various natural language processing tasks. We showed that ChatGPT substantially outperformed these models, achieving over 10% improvement in both sensitivity and positive predictive value, in a zero-shot learning configuration. The findings underscore the model’s potential as a superior diagnostic tool, combining accuracy and applicability. We identified ten key features of autism-associated language disorders across scenarios. Features such as echolalia, pronoun reversal, and atypical language usage play a critical role in diagnosing ASD and informing tailored treatment plans. Together, our findings advocate for adopting sophisticated AI tools like ChatGPT in clinical settings to assess and diagnose developmental disorders. Our approach promises enhanced diagnostic precision and supports personalized medicine, potentially transforming the evaluation landscape for autism and similar neurological conditions.
 
 ---
 
 ## Framework
 
+![Example](images/framework.jpg)
 ---
 
 ## Dataset
