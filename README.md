@@ -1,1 +1,1 @@
-# chatgpt_ASD_diagnosis
+# ASD_Diagnosis_based_on ChatGPT
