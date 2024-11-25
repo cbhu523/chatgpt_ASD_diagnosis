@@ -1,5 +1,7 @@
 # ASD_Diagnosis_Based_on_ChatGPT
 
+## Dataset
+
 The sample dataset is available for download at the following link:  
 [Download Dataset](https://drive.google.com/file/d/1_6TqCtx2hqVn6bBH6eqxC1BnZnR6PTPY/view?usp=sharing)  
 
@@ -23,7 +25,7 @@ Dialogue['text'] + "Based on the above conversation between the examiner and the
 9. Stereotyped Media Quoting: Quotes lines from commercials, movies, or TV shows in a highly stereotypical manner, employing a canned intonation that mimics the original source closely, suggesting a reliance on external media for verbal expressions;
 10. Clichéd Verbal Substitutions: Resorts to well-known sayings or clichés in lieu of engaging in direct conversational responses, using phrases like 'circle of life' or 'ready to roll' as stand-ins for more personalized communication.
 
-Citation
+## Citation
 If you use our data or prompts in your research, please cite our paper:
 
 @article{hu2024exploiting,
