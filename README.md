@@ -42,6 +42,11 @@ Dialogue['text'] + "Based on the above conversation between the examiner and the
 9. Stereotyped Media Quoting: Quotes lines from commercials, movies, or TV shows in a highly stereotypical manner, employing a canned intonation that mimics the original source closely, suggesting a reliance on external media for verbal expressions;
 10. Clichéd Verbal Substitutions: Resorts to well-known sayings or clichés in lieu of engaging in direct conversational responses, using phrases like 'circle of life' or 'ready to roll' as stand-ins for more personalized communication.
 ```
+## Case Study
+
+![Case Study Analysis: Identifying Language Deficits in an Examiner-Patient Dialogue. Phrases highlighted in indicate observed linguistic anomalies, while underscores the specific feature category of language deficits.](./case_study.png)
+---
+
 ## Citation
 If you use our data or prompts in your research, please cite our paper:
 ```text
