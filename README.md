@@ -27,7 +27,7 @@ Additional data may be added in the future.
 ---
 ## Prompt (Coarse: if existing SLD)
 ```text
-Based on the above conversation between the examiner and the patient, please categorize if any observed Social Language Disorders for the patient. Answer only 'Yes' or 'No'.
+Dialogue['text'] + "Based on the above conversation between the examiner and the patient, please categorize if any observed Social Language Disorders for the patient. Answer only 'Yes' or 'No'.“
 ```
 
 ---
