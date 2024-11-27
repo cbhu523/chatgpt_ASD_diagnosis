@@ -25,8 +25,13 @@ The sample dataset is available for download at the following link:
 Additional data may be added in the future.  
 
 ---
+## Prompt (Coarse: if existing SLD)
+```text
+Based on the above conversation between the examiner and the patient, please categorize if any observed Social Language Disorders for the patient. Answer only 'Yes' or 'No'.
+```
 
-## Prompt (Diagnosis)
+---
+## Prompt (Fine: which kind of SLD Features)
 
 ```text
 Dialogue['text'] + "Based on the above conversation between the examiner and the patient, please categorize any observed social language disorders for the patient into the provided 10 language categories and demonstrate all instances of disorder evidence present in their dialogue.
