@@ -4,7 +4,7 @@
 
 # ───────── Pyannote + Whisper ─────────
 #!pip install pyannote.audio openai-whisper
-# 需要 HF_TOKEN  ➜  export HF_TOKEN="YOUR_HF_TOKEN"
+#  HF_TOKEN  ➜  export HF_TOKEN="YOUR_HF_TOKEN"
 
 # ───────── Azure  ─────────
 #!pip install azure-cognitiveservices-speech
@@ -12,7 +12,7 @@
 
 # ───────── Google  ─────────
 #!pip install google-cloud-speech
-# 需要 GOOGLE_APPLICATION_CREDENTIALS 指向 JSON 凭证
+#  GOOGLE_APPLICATION_CREDENTIALS -> JSON
 
 import os, json, argparse, time, sys
 from pathlib import Path
@@ -52,7 +52,6 @@ def transcribe_pyannote(wav_path: Path):
     full_text = result["text"]
 
     # --- align diarization segments with whisper words ---
-    # 为示例简化：直接返回整句并附首个说话人标签
     speaker_map = {track.label: idx+1 for idx, track in enumerate(diar.tracks())}
     spk_id = list(speaker_map.values())[0] if speaker_map else 1
     return [{"speaker": spk_id, "text": full_text.strip()}]
