@@ -178,14 +178,14 @@ def main(args):
             else Path(args.audio_dir) / f"{uid}.wav"
         )
         if not wav_path.exists():
-            print(f"⚠️  Missing audio: {wav_path}", file=sys.stderr)
+            print(f" Missing audio: {wav_path}", file=sys.stderr)
             continue
 
         try:
             segments = transcribe(wav_path)
             text = join_segments(segments)
         except Exception as e:
-            print(f"❌  {uid} failed: {e}", file=sys.stderr)
+            print(f" {uid} failed: {e}", file=sys.stderr)
             continue
 
         records.append({"uid": uid, "text": text, "label": label})
